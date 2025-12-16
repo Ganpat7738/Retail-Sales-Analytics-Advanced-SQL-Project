@@ -1,9 +1,5 @@
 # 🛒 Retail Sales Analytics — Advanced SQL Project
 
-## 🔗 Project Links
-- **GitHub Repository:** https://github.com/Ganpat7738/retail-sales-analytics-sql
-
----
 
 ## 📌 Project Overview
 This project focuses on analyzing **retail sales transaction data** using **advanced SQL techniques** to uncover insights related to customer behavior, product performance, sales trends, and time-based purchasing patterns.
